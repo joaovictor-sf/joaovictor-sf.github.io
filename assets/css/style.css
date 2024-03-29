@@ -185,6 +185,18 @@ img {
     height: 44px;
 }
 
+/* PROGRESS-BAR */
+.progress {
+    height: 10px;
+    background-color: var(--color-base);
+    margin-left: 20px;
+}
+
+.progress-bar {
+    background-color: var(--color-body);
+    border-radius: 10px;
+}
+
 /* SOCIAL ICONS */
 .social-icons a {
     display: inline-flex;
