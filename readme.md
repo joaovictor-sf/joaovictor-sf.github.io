@@ -2,8 +2,9 @@
 
 ## Alterações Planejadas
 
-- [ ] Adicionar funcionalidade de login
-- [ ] Implementar sistema de notificações
-- [ ] Melhorar a interface do usuário
-- [ ] Corrigir bugs relatados
-- [ ] Otimizar o desempenho do aplicativo
+- [x] Adicionar experiencias
+- [ ] Tirar uma foto de rosto melhor
+- [ ] Adicionar um botão para baixar o currículo
+- [x] Fazer os links no Serviços levar ao github
+- [ ] Adicionar projetos
+- [ ] Criar uma seção com meus conhecimentos dividia em Backend, Frontend e DevOps
