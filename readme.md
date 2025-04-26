@@ -9,3 +9,4 @@
 - [ ] Adicionar projetos
 - [x] Criar uma seção com meus conhecimentos dividia em Backend, Frontend e DevOps
 - [x] Corrigir erros de ortografia
+- [ ] Limpar o projeto das imagens e partes desnecessárias
